@@ -10,9 +10,9 @@ E-mail notification;
 Wait for more resources...
 
 Install dependencies
-  npm install
+  <br>npm install
 
 Running the app
-  npm start
+  <br>npm start
   
   
